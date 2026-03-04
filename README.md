@@ -1,2 +1,4 @@
-# pinito
-Aprendiendo a hacer webs con Guada y Pipu
+# Pinito
+
+Aprendiendo a hacer webs con Guada y Pipu.
+Una oración.
